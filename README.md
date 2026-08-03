@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1406-stone-game-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Array
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1406-stone-game-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
