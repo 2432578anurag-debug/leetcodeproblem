@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0078-subsets) |
 | [0877-stone-game](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3731-find-missing-elements) |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
