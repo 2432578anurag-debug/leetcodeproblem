@@ -49,14 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
