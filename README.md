@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0200-number-of-islands) |
 | [0877-stone-game](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3731-find-missing-elements) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -94,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
