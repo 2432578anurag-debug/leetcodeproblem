@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0856-score-of-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/2432578anurag-debug/leetcodeproblem/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
